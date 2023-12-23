@@ -1,5 +1,7 @@
 **Hotel Management Network Model**
+
 *Project Overview*
+
 Welcome to the Hotel Management Network Model project! This project aims to create a robust and efficient computer network infrastructure for a hotel environment. The network design spans three floors, each equipped with its own router interconnected to form a seamless communication network. The Open Shortest Path First (OSPF) routing algorithm has been employed to optimize routing within the network.
 
 **Features**
